@@ -8,9 +8,9 @@
 #ifndef LANGUAGE_EN_H
 #define LANGUAGE_EN_H
 
-#define WELCOME_MSG                         MACHINE_NAME " Pronta."
-#define MSG_SD_INSERTED                     "SD CARD INSERITA"
-#define MSG_SD_REMOVED                      "SD CARD RIMOSSA"
+#define WELCOME_MSG                         MACHINE_NAME " Printer"
+#define MSG_SD_INSERTED                     "SD CARD INSERTED"
+#define MSG_SD_REMOVED                      "SD CARD REMOVED"
 #define MSG_MAIN                            "Main"
 #define MSG_AUTOSTART                       "Autostart"
 #define MSG_DISABLE_STEPPERS                "Disable steppers"
